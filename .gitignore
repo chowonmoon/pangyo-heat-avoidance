@@ -1,0 +1,12 @@
+data/
+*.csv
+*.geojson
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.graphml
+*.html
+.ipynb_checkpoints/
