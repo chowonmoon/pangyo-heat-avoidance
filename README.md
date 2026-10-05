@@ -42,7 +42,7 @@
 - α 0.2~30 스캔 → **α = 10 채택** (평균 우회 65m · 우회율 4.1% · 열노출 저감 7.6%)
   - α 10 → 30으로 올려도 저감률은 1.6%p만 증가 → 효율이 꺾이는 지점
 
-![Alpha trade-off](assets/alpha_tradeoff.png)
+![Alpha trade-off](assets/alpha_tradeoff_en.png)
 
 ### 4. 더위회피 곤란구간 도출
 - **조건 A (열노출 지속형)**: 회피경로로 돌아가도 HSI 상위 20%가 계속되는 동선
